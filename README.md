@@ -78,7 +78,7 @@ Movement is tile‑based but animated smoothly.
    ```
 2. Run the script:  
    ```bash
-   python dungeon_quest.py
+   python Dungeon Quest.py
    ```
 
 ---
@@ -88,7 +88,7 @@ Movement is tile‑based but animated smoothly.
 ```
 dungeon-quest-mini/
 │
-├── Dungeon Quest uest.py     # Main game file
+├── Dungeon Quest.py     # Main game file
 L__ README.md            # Project documentation
 ```
 
