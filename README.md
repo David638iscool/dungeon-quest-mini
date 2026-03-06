@@ -86,11 +86,10 @@ Movement is tile‑based but animated smoothly.
 ## 📦 Project Structure
 
 ```
-dungeon-quest/
+dungeon-quest-mini/
 │
-├── dungeon_quest.py     # Main game file
-├── README.md            # Project documentation
-└── assets/              # (Optional) future sprites, sounds, etc.
+├── Dungeon Quest uest.py     # Main game file
+L__ README.md            # Project documentation
 ```
 
 ---
