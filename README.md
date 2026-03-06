@@ -104,5 +104,3 @@ dungeon-quest/
 - Custom sprites instead of rectangles  
 - A proper menu system  
 - A roadmap section for future features  
-
-Would you like the README to include screenshots or ASCII diagrams of the maze layout?
